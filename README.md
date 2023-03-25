@@ -2,6 +2,7 @@
 This is the code related to "Cross-Domain and Cross-Modal Knowledge Distillation in Domain Adaptation for 3D Semantic Segmentation" (ACMMM 2022).
 ## Paper
 [Cross-Domain and Cross-Modal Knowledge Distillation in Domain Adaptation for 3D Semantic Segmentation](https://dl.acm.org/doi/10.1145/3503161.3547990)
+![](https://github.com/limiaoyu/Dual-Cross/blob/main/Dual-Cross.jpg)
 
 **MM '22: Proceedings of the 30th ACM International Conference on Multimedia**
 
