@@ -48,7 +48,7 @@ Please edit the script `xmuda/data/nuscenes/preprocess.py` as follows and then r
 
 ## Usage
 ### Training
-Take the training on Day-to-Night as an example. You can run the training with:
+You can run the training with:
 ```
 $ python xmuda/train_dual.py --cfg=configs/nuscenes/day_night/xmuda.yaml 
 ```
