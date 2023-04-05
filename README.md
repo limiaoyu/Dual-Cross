@@ -8,10 +8,11 @@ This is the code related to "Cross-Domain and Cross-Modal Knowledge Distillation
 
 If you find it helpful to your research, please cite as follows:
 ```
-@article{Li2022CrossDomainAC,
+@inproceedings{li2022cross,
   title={Cross-Domain and Cross-Modal Knowledge Distillation in Domain Adaptation for 3D Semantic Segmentation},
-  author={Miaoyu Li and Yachao Zhang and Yuan Xie and Zuodong Gao and Cuihua Li and Zhizhong Zhang and Yanyun Qu},
-  journal={Proceedings of the 30th ACM International Conference on Multimedia},
+  author={Li, Miaoyu and Zhang, Yachao and Xie, Yuan and Gao, Zuodong and Li, Cuihua and Zhang, Zhizhong and Qu, Yanyun},
+  booktitle={Proceedings of the 30th ACM International Conference on Multimedia},
+  pages={3829--3837},
   year={2022}
 }
 ```
