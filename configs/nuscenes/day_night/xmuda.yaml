@@ -13,7 +13,7 @@ DATASET_SOURCE:
 DATASET_TARGET:
   TYPE: "NuScenesSCN"
   TRAIN: ("train_night",)
-  VAL: ("test_night",)
+  VAL: ("val_night",)
   TEST: ("test_night",)
   NuScenesSCN:
     preprocess_dir: "/datasets_local/datasets_mjaritz/nuscenes_preprocess/preprocess"
