@@ -62,4 +62,4 @@ $ python xmuda/test.py --cfg=configs/nuscenes/day_night/xmuda.yaml  @/model_2d_0
 You can also provide an absolute path without `@`. 
 
 ## Acknowledgements
-Note that this code borrows from the [xMUDA](https://github.com/valeoai/xmuda) repo.
+Note that this code borrows from the [xMUDA](https://github.com/valeoai/xmuda) repo, and uses code from [FDA](https://github.com/YanchaoYang/FDA).
